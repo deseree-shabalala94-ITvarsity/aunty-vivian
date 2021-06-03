@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+    text-decoration: none;
+    padding: 10%;
+    color: white;
+    margin: 10px;
+    border-radius: 10%;
+    }
+
+    h1{
+        color: white;
+        text-align: center;
+        text-decoration: solid;
+        font-size: 100%;
+        font-style: italic;
+
+    }
+
+    img{
+        padding-left: 40%;
+    }
